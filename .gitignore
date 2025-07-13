@@ -1,0 +1,48 @@
+# 🚫 Sensitive or private config
+.env
+*.env
+
+# ⚙️ Python and virtual environment junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# 📦 Build or packaging artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 🧠 Model files (optional, unless needed for Streamlit)
+*.pkl
+model.pkl
+
+# 📤 Local logs and dynamic outputs
+logs/
+*.log
+
+# 📄 Local-only recipient list (hide real numbers)
+data/recipients.txt
+
+# 🌍 Streamlit config cache
+.streamlit/
+
+# 💻 VSCode settings (optional)
+.vscode/
+
+# 🚧 OS-generated files
+.DS_Store
+Thumbs.db
+
+#do not need them anymore
+send_sms_fast2sms.py
+sms_webhook.py
