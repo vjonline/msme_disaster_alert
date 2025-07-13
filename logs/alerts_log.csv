@@ -1,0 +1,5 @@
+datetime,city,sub_region,risk_level,message
+2025-07-13 10:00,Gangtok,Tadong,Anomaly,⚠️ Heavy rainfall in Tadong (Gangtok) at 2025-07-13 10:00 - Rain: 18 mm | Wind: 20 km/h | Pressure: 970 hPa
+2025-07-13 09:00,Gangtok,MG Marg,Anomaly,⚠️ Strong winds and rain at MG Marg. Secure loose items and shut outdoor equipment.
+2025-07-12 18:00,Mumbai,-,Normal,✅ Weather is normal in Mumbai.
+2025-07-11 12:00,Shillong,-,Anomaly,⚠️ Weather unstable in Shillong. Check supplies and power backups.
