@@ -61,7 +61,7 @@ Creative Commons BY-NC-ND 4.0 License.
 
 You are free to view and evaluate the code. However, reuse, redistribution, or modification is not allowed without explicit permission from the author.
 
-## 👨‍💻 Author
-Vinamra Jain
-Solo Developer | B.Tech CSE Student
-Built for MSME Idea Hackathon 5.0
+## 👨‍💻 Author  
+**Vinamra Jain**<br>
+Solo Developer | B.Tech CSE Student<br>
+Built for <strong>MSME Idea Hackathon 5.0</strong>
