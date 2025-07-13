@@ -22,14 +22,6 @@ ENV/
 dist/
 build/
 
-# 🧠 Model files (optional, unless needed for Streamlit)
-*.pkl
-model.pkl
-
-# 📤 Local logs and dynamic outputs
-logs/
-*.log
-
 # 📄 Local-only recipient list (hide real numbers)
 data/recipients.txt
 

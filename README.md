@@ -64,4 +64,3 @@ You are free to view and evaluate the code. However, reuse, redistribution, or m
 ## 👨‍💻 Author  
 **Vinamra Jain**<br>
 Solo Developer | B.Tech CSE Student<br>
-Built for <strong>MSME Idea Hackathon 5.0</strong>
